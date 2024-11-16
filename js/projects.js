@@ -87,8 +87,8 @@ const createProjects = () => {
 
 const blogPosts = [
     {
-        title: 'BLOG POST ONE',
-        time: '3 MIN',
+        title: 'OFFER GHOSTING',
+        time: 'BlockChain',
         image: 'https://images.unsplash.com/photo-1561998338-13ad7883b20f?auto=format&fit=crop&q=80&w=2487&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
     },
     {
